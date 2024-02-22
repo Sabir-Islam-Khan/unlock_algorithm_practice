@@ -1,0 +1,1 @@
+{"name":"Local: fatgpt","url":"c:\\Users\\Sabir\\Desktop\\unlock_algorithm\\fatgpt.cpp","tests":[{"id":1708624822102,"input":"6\n4 1 5 2 7 3","output":"5"},{"id":1708624822942,"input":"4\n7 122 1 69","output":"2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Sabir\\Desktop\\unlock_algorithm\\fatgpt.cpp","group":"local","local":true}

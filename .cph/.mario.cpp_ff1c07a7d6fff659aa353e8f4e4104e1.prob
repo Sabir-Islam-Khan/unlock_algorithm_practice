@@ -1,0 +1,1 @@
+{"name":"Local: mario","url":"c:\\Users\\Sabir\\Desktop\\unlock_algorithm\\mario.cpp","tests":[{"id":1708628009537,"input":"79 101","output":"Yes"},{"id":1708628018527,"input":"23 31","output":"No"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Sabir\\Desktop\\unlock_algorithm\\mario.cpp","group":"local","local":true}
